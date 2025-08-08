@@ -1,0 +1,10 @@
+Vehicle parked at slot: 1
+Vehicle parked at slot: 2
+Available slots:
+Slot 3
+Slot 4
+Slot 5
+Vehicle KA-01-AA-1111 unparked from slot 1
+Parking duration: 2 seconds. Fee: ₹10
+Vehicle KA-02-BB-2222 unparked from slot 2
+Parking duration: 0 seconds. Fee: ₹0
